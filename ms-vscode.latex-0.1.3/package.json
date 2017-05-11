@@ -1,0 +1,72 @@
+{
+	"name": "latex",
+	"version": "0.1.3",
+	"displayName": "LaTeX Language Support",
+	"description": "LaTeX - colorizer, grammar and snippets.",
+	"publisher": "ms-vscode",
+	"icon": "images/iconLaTeX.png",
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-LaTeX.git"
+	},
+	"categories": [
+		"Languages",
+		"Snippets"
+	],
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "latex",
+				"aliases": [
+					"LaTeX",
+					"latex"
+				],
+				"extensions": [
+					".tex"
+				],
+				"configuration": "./latex.configuration.json"
+			},
+			{
+				"id": "tex",
+				"aliases": [
+					"TeX",
+					"tex"
+				],
+				"extensions": [
+					".sty",
+					".cls",
+					".bbx",
+					".cbx"
+				],
+				"configuration": "./latex.configuration.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "latex",
+				"path": "./snippets/snippets.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "latex",
+				"scopeName": "text.tex.latex",
+				"path": "./syntaxes/latex.tmLanguage"
+			},
+			{
+				"language": "tex",
+				"scopeName": "text.tex",
+				"path": "./syntaxes/tex.tmLanguage"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1d97986e-0edf-48b5-94d1-b4714a385560",
+		"publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+		"publisherDisplayName": "Microsoft"
+	}
+}

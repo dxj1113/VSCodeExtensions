@@ -1,0 +1,47 @@
+{
+	"name": "vscode-sql-beautify",
+	"displayName": "SQL Beautify",
+	"description": "VS Code extension that beautifies SQL using vkbeautify module",
+	"version": "0.0.4",
+	"publisher": "sensourceinc",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onLanguage:sql"
+	],
+	"main": "./extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.beautifySql",
+				"title": "Beautify SQL"
+			}
+		],
+		"keybindings": [
+			{
+				"command": "extension.beautifySql",
+				"key": "alt+shift+f",
+				"when": "editorTextFocus && !editorReadonly && editorLangId == 'sql'"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"icon": "images/icon.png",
+	"dependencies": {
+		"vkbeautify": "0.99.1"
+	},
+	"devDependencies": {
+		"vscode": "^0.11.0"
+	},
+	"__metadata": {
+		"id": "f832d6bd-596f-410b-b822-ccdce22001fb",
+		"publisherId": "cc036b0d-3354-4fb4-81a3-b8e9053c5039",
+		"publisherDisplayName": "SenSource Inc"
+	}
+}

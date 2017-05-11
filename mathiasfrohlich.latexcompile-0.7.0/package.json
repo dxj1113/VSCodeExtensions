@@ -1,0 +1,82 @@
+{
+	"name": "latexcompile",
+	"displayName": "LaTeX Compile",
+	"description": "An Visual Studio Code Extension, that compiles .tex to .pdf at location",
+	"version": "0.7.0",
+	"publisher": "mathiasfrohlich",
+	"license": "SEE LICENSE IN LICENSE or README.MD",
+	"homepage": "https://github.com/mathiasfrohlich/vscode-LaTeXCompile/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mathiasfrohlich/vscode-LaTeXCompile.git"
+	},
+	"icon": "images/icon.png",
+	"bugs": {
+		"url": "https://github.com/mathiasfrohlich/vscode-LaTeXCompile/issues"
+	},
+	"engines": {
+		"vscode": "^0.10.8"
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"LaTeX",
+		"latex",
+		"tex",
+		"pdf",
+		"compile"
+	],
+	"activationEvents": [
+		"onCommand:extension.latexCompile"
+	],
+	"main": "./extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.latexCompile",
+				"title": "LaTeX: Compile PDF"
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "LateX Compile Configuration",
+			"properties": {
+				"latexCompile.openAfterCompile": {
+					"type": "boolean",
+					"default": true,
+					"description": "Opens PDF after Latex Compile"
+				},
+				"latexCompile.openLogAfterError": {
+					"type": "boolean",
+					"default": true,
+					"description": "Opens LOG if failed to Compile"
+				},
+				"latexCompile.compiler": {
+					"type": "string",
+					"default": "pdflatex",
+					"description": "The compiler to use"
+				},
+				"latexCompile.mainFile": {
+					"type": [
+						"string",
+						"null"
+					],
+					"default": null,
+					"description": "The main document to compile"
+				}
+			}
+		}
+	},
+	"devDependencies": {
+		"vscode": "0.11.x"
+	},
+	"__metadata": {
+		"id": "3cf29640-ca20-47bb-a871-a13b079d383b",
+		"publisherId": "6c0520a7-c10a-45a4-b172-d75ca7dca2c1",
+		"publisherDisplayName": "mathiasfrohlich"
+	}
+}
