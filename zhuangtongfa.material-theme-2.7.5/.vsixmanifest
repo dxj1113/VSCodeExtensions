@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="Material-theme" Version="2.7.4" Publisher="zhuangtongfa"/>
+    <Identity Language="en-US" Id="Material-theme" Version="2.7.5" Publisher="zhuangtongfa"/>
     <DisplayName>One Dark Pro</DisplayName>
     <Description xml:space="preserve">Atom&#39;s iconic One Dark theme for Visual Studio Code</Description>
     <Tags>one dark,onedark,one dark pro,theme,atom,color-theme</Tags>

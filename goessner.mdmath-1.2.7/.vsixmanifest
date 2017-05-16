@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="mdmath" Version="1.2.6" Publisher="goessner"/>
+    <Identity Language="en-US" Id="mdmath" Version="1.2.7" Publisher="goessner"/>
     <DisplayName>Markdown+Math</DisplayName>
     <Description xml:space="preserve">LaTeX Math for Markdown</Description>
     <Tags>vscode,markdown,latex,katex,math,keybindings</Tags>
