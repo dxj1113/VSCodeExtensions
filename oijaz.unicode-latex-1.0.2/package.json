@@ -1,0 +1,48 @@
+{
+	"name": "unicode-latex",
+	"displayName": "Unicode Latex",
+	"description": "Insert unicode symbols for latex names",
+	"version": "1.0.2",
+	"publisher": "oijaz",
+	"author": {
+		"name": "Omer Sheikh"
+	},
+	"repository": "oijazsh/unicode-latex",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:unicode-latex.insertMathSymbol",
+		"onCommand:unicode-latex.replaceLatexNames"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "unicode-latex.insertMathSymbol",
+				"title": "Unicode: Insert Math Symbol"
+			},
+			{
+				"command": "unicode-latex.replaceLatexNames",
+				"title": "Unicode: Replace LaTeX"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+		"compile": "node ./node_modules/vscode/bin/compile -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"typescript": "^1.8.5",
+		"vscode": "^0.11.0"
+	},
+	"__metadata": {
+		"id": "675bd199-f436-4638-80eb-92500950f0ba",
+		"publisherId": "0b48760a-d873-44f6-8fe0-2707cb6946bd",
+		"publisherDisplayName": "Omer Sheikh"
+	}
+}
