@@ -1,0 +1,14 @@
+[18:33:53] Language server starting...
+powershell.exe started --
+    pid: 15640
+    exe: C:\Windows\Sysnative\WindowsPowerShell\v1.0\powershell.exe
+    args: C:\Users\Administrator\.vscode\extensions\ms-vscode.powershell-1.4.1\scripts\Start-EditorServices.ps1 -EditorServicesVersion '1.4.1' -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '1.4.1' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'C:\Users\Administrator\.vscode\extensions\ms-vscode.powershell-1.4.1\modules' -EnableConsoleRepl -LogLevel 'Normal' -LogPath 'C:\Users\Administrator\.vscode\extensions\ms-vscode.powershell-1.4.1\logs\1498559633-09ae445c-56fb-4a36-bbe6-b2fa705dec801498559631916\EditorServices.log' -SessionDetailsPath 'C:\Users\Administrator\.vscode\extensions\ms-vscode.powershell-1.4.1\sessions\PSES-VSCode-15796-700892' -FeatureFlags @()
+
+
+PowerShell language features are only supported on PowerShell version 3 and above.  The current version is 2.0.
+
+powershell.exe terminated or terminal UI was closed
+
+
+
+Shutting down language client...
