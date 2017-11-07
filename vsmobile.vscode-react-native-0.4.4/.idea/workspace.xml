@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="822d59d2-ef42-4095-ab9a-3f77eb3d48f3" name="Default" comment="Merge branch 'master' into replace-app-start&#10;&#10;# Conflicts:&#10;#&#9;src/common/generalMobilePlatform.ts&#10;#&#9;src/extension/android/androidPlatform.ts&#10;#&#9;src/extension/commandPaletteHandler.ts">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="rn-extension.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/extension/rn-extension.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+              <folding>
+                <element signature="e#544#567#0" expanded="true" />
+                <marker date="1507546162882" expanded="true" signature="6614:6634" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commandPaletteHandler.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/extension/commandPaletteHandler.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="95" column="41" lean-forward="false" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+              <folding>
+                <element signature="e#147#180#0" expanded="true" />
+                <marker date="1507546162867" expanded="true" signature="10369:10582" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settingsHelper.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/extension/settingsHelper.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="90" column="52" lean-forward="false" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
+              <folding>
+                <element signature="e#147#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adb.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/extension/android/adb.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="74" column="77" lean-forward="false" selection-start-line="74" selection-start-column="77" selection-end-line="74" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6188">
+              <caret line="380" column="28" lean-forward="false" selection-start-line="380" selection-start-column="28" selection-end-line="380" selection-end-column="28" />
+              <folding>
+                <marker date="1507795002641" expanded="true" signature="734:11918" ph="{...}" />
+                <marker date="1507795002641" expanded="true" signature="2072:10960" ph="[...]" />
+                <marker date="1507795002641" expanded="true" signature="2080:10954" ph="{&quot;type&quot;: &quot;reactnative&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="5896:10946" ph="{...}" />
+                <marker date="1507795002641" expanded="true" signature="7365:10936" ph="{...}" />
+                <marker date="1507795002641" expanded="true" signature="7484:10924" ph="{...}" />
+                <marker date="1507795002641" expanded="true" signature="8128:8256" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="8283:8421" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="8447:8910" ph="{&quot;default&quot;: &quot;simulator&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="8474:8767" ph="[...]" />
+                <marker date="1507795002641" expanded="true" signature="8494:8671" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="8562:8651" ph="[...]" />
+                <marker date="1507795002641" expanded="true" signature="8691:8749" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="8940:9160" ph="{&quot;type&quot;: &quot;boolean&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="9195:9649" ph="{&quot;type&quot;: &quot;array&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="9518:9633" ph="[...]" />
+                <marker date="1507795002641" expanded="true" signature="9675:9917" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="9949:10141" ph="{&quot;type&quot;: &quot;array&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="10168:10350" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="10376:10557" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="10582:10910" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="10642:10793" ph="[...]" />
+                <marker date="1507795002641" expanded="true" signature="10983:11914" ph="{&quot;type&quot;: &quot;object&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="11074:11908" ph="{...}" />
+                <marker date="1507795002641" expanded="true" signature="11127:11278" ph="{&quot;description&quot;: &quot;Run arguments to be passed to 'react-native run-ios' command&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="11328:11479" ph="{&quot;description&quot;: &quot;Run arguments to be passed to 'react-native run-ios' command&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="11536:11691" ph="{&quot;description&quot;: &quot;Run arguments to be passed to 'react-native run-android' command&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="11745:11900" ph="{&quot;description&quot;: &quot;Run arguments to be passed to 'react-native run-android' command&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="11933:12222" ph="{&quot;start&quot;: &quot;node node_modules/react-native/local-cli/cli.js start&quot;...}" />
+                <marker date="1507795002641" expanded="true" signature="12242:12739" ph="{&quot;extract-opts&quot;: &quot;2.2.0&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Logger.LogLevel</find>
+      <find>loglevel</find>
+      <find>getPipePath</find>
+      <find>logger</find>
+      <find>.Verbose</find>
+      <find>logLevel</find>
+      <find>ConfigurationReader</find>
+      <find>IRunOptions</find>
+      <find>logStreamData</find>
+      <find>vscode</find>
+      <find>ERROR_CODE_WIDTH</find>
+      <find>logHelper</find>
+      <find>o`utputChannelLogger</find>
+      <find>outputChannelLogger</find>
+      <find>/logHelper</find>
+      <find>DelayedOutputChannelLogger</find>
+      <find>OutputChannelLogger</find>
+      <find>Log.</find>
+      <find>vscode.window.cre</find>
+      <find>typescript</find>
+      <find>command</find>
+      <find>getLog</find>
+      <find>Log</find>
+      <find>CommandExecutor</find>
+      <find>startMonitoringLogCat</find>
+      <find>startPack</find>
+      <find>PlistBuddy</find>
+      <find>iosDebugModeManager</find>
+      <find>launchApp</find>
+      <find>200</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>this.logger.</replace>
+      <replace>LogLevel</replace>
+      <replace>.Debug</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\projects\vscode-react-native\node_modules</dir>
+      <dir>C:\projects\vscode-react-native\test</dir>
+      <dir>C:\projects\vscode-react-native\src\common</dir>
+      <dir>C:\projects\vscode-react-native\src\debugger</dir>
+      <dir>C:\projects\vscode-react-native\src\extension</dir>
+      <dir>C:\projects\vscode-react-native\src</dir>
+      <dir>C:\projects\vscode-react-native</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/common/entryPointHandler.ts" />
+        <option value="$PROJECT_DIR$/src/common/log/loggers.ts" />
+        <option value="$PROJECT_DIR$/src/common/ios/iOSPlatform.ts" />
+        <option value="$PROJECT_DIR$/src/common/android/androidPlatform.ts" />
+        <option value="$PROJECT_DIR$/src/common/log/outputChannelLogger.ts" />
+        <option value="$PROJECT_DIR$/test/extension/ios/plistBuddy.test.ts" />
+        <option value="$PROJECT_DIR$/test/extension/ios/simulatorPlist.test.ts" />
+        <option value="$PROJECT_DIR$/test/extension/ios/xcodeproj.test.ts" />
+        <option value="$PROJECT_DIR$/src/debugger/forkedAppWorker.ts" />
+        <option value="$PROJECT_DIR$/src/common/extensionMessaging.ts" />
+        <option value="$PROJECT_DIR$/src/common/interProcessMessageSender.ts" />
+        <option value="$PROJECT_DIR$/src/common/log/log.ts" />
+        <option value="$PROJECT_DIR$/src/debugger/nodeDebugWrapper.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/common/log/logHelper.ts" />
+        <option value="$PROJECT_DIR$/src/extension/ios/simulatorPlist.ts" />
+        <option value="$PROJECT_DIR$/src/extension/ios/iOSDebugModeManager.ts" />
+        <option value="$PROJECT_DIR$/src/extension/intellisenseHelper.ts" />
+        <option value="$PROJECT_DIR$/src/extension/extensionServer.ts" />
+        <option value="$PROJECT_DIR$/src/extension/packager.ts" />
+        <option value="$PROJECT_DIR$/src/extension/platformResolver.ts" />
+        <option value="$PROJECT_DIR$/test/extension/ios/iOSPlatform.test.ts" />
+        <option value="$PROJECT_DIR$/test/extension/commandExecutor.test.ts" />
+        <option value="$PROJECT_DIR$/test/extension/packager.test.ts" />
+        <option value="$PROJECT_DIR$/src/common/configurationReader.ts" />
+        <option value="$PROJECT_DIR$/src/extension/log/log.ts" />
+        <option value="$PROJECT_DIR$/src/extension/log/outputChannelLogger.ts" />
+        <option value="$PROJECT_DIR$/src/extension/log/loggers.ts" />
+        <option value="$PROJECT_DIR$/src/extension/log/logHelper.ts" />
+        <option value="$PROJECT_DIR$/src/extension/log/DelayedOutputChannelLogger.ts" />
+        <option value="$PROJECT_DIR$/src/extension/reactDirManager.ts" />
+        <option value="$PROJECT_DIR$/src/extension/android/logCatMonitor.ts" />
+        <option value="$PROJECT_DIR$/src/common/commandExecutor.ts" />
+        <option value="$PROJECT_DIR$/src/extension/exponent/exponentHelper.ts" />
+        <option value="$PROJECT_DIR$/src/common/packager.ts" />
+        <option value="$PROJECT_DIR$/doc/customization.md" />
+        <option value="$PROJECT_DIR$/src/extension/log/LogHelper.ts" />
+        <option value="$PROJECT_DIR$/src/extension/log/OutputChannelLogger.ts" />
+        <option value="$PROJECT_DIR$/src/extension/log/ConsoleLogger.ts" />
+        <option value="$PROJECT_DIR$/.vscode/settings.json" />
+        <option value="$PROJECT_DIR$/src/extension/rn-extension.ts" />
+        <option value="$PROJECT_DIR$/src/common/android/adb.ts" />
+        <option value="$PROJECT_DIR$/src/common/generalMobilePlatform.ts" />
+        <option value="$PROJECT_DIR$/src/extension/generalMobilePlatform.ts" />
+        <option value="$PROJECT_DIR$/src/extension/ios/iOSPlatform.ts" />
+        <option value="$PROJECT_DIR$/src/extension/commandPaletteHandler.ts" />
+        <option value="$PROJECT_DIR$/src/extension/android/androidPlatform.ts" />
+        <option value="$PROJECT_DIR$/src/extension/android/adb.js" />
+        <option value="$PROJECT_DIR$/src/extension/android/adb.ts" />
+        <option value="$USER_HOME$/.vscode/extensions/vsmobile.vscode-react-native-0.4.2/src/common/android/adb.js" />
+        <option value="$PROJECT_DIR$/src/extension/settingsHelper.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="check-imports" />
+              <dependency value="check-copyright" />
+            </dependencies>
+            <task-name>build</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>quick-build</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="build" />
+            </dependencies>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>default</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>tslint</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="build" />
+              <dependency value="tslint" />
+            </dependencies>
+            <task-name>test</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>coverage:instrument</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>coverage:report</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>coverage:remap</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>test:coverage</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>test-no-build</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>check-imports</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>check-copyright</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="build" />
+              <dependency value="build-test" />
+            </dependencies>
+            <task-name>watch-build-test</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clean</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>package</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="build" />
+            </dependencies>
+            <task-name>release</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="-17" />
+    <option name="width" value="1918" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vscode-react-native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vscode-react-native" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vscode-react-native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vscode-react-native" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vscode-react-native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vscode-react-native" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vscode-react-native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vscode-react-native" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vscode-react-native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vscode-react-native" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="adb.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="node.js.path.for.package.tslint" value="$USER_HOME$/AppData/Local/nvs/default/node" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/AppData/Local/nvs/default/node" />
+    <property name="node.js.selected.package.tslint" value="C:\projects\vscode-react-native\node_modules\tslint" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/nvs/default/node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="settingHelper&#9;FILE&#9;file://C:/projects/vscode-react-native/src/extension/settingsHelper.ts&#10;exponent&#9;null&#9;null&#10;exte&#9;FILE&#9;file://C:/projects/vscode-react-native/src/extension/extensionServer.ts&#10;intelli&#9;FILE&#9;file://C:/projects/vscode-react-native/src/extension/intellisenseHelper.ts&#10;IOSD&#9;FILE&#9;file://C:/projects/vscode-react-native/src/extension/ios/iOSDebugModeManager.ts&#10;simulator&#9;FILE&#9;file://C:/projects/vscode-react-native/src/extension/ios/simulatorPlist.ts&#10;NodeDebug&#9;FILE&#9;file://C:/projects/vscode-react-native/src/debugger/nodeDebugWrapper.ts&#10;packager.ts&#9;FILE&#9;file://C:/projects/vscode-react-native/src/common/packager.ts&#10;interProce&#9;FILE&#9;file://C:/projects/vscode-react-native/src/common/interProcessMessageSender.ts&#10;nodeDe&#9;FILE&#9;file://C:/projects/vscode-react-native/src/debugger/nodeDebugWrapper.ts&#10;forkedApp&#9;FILE&#9;file://C:/projects/vscode-react-native/src/debugger/forkedAppWorker.ts&#10;forke&#9;null&#9;null&#10;command&#9;FILE&#9;file://C:/projects/vscode-react-native/src/common/commandExecutor.ts&#10;logcat&#9;FILE&#9;file://C:/projects/vscode-react-native/src/extension/android/logCatMonitor.ts&#10;packager&#9;FILE&#9;file://C:/projects/vscode-react-native/src/common/packager.ts&#10;reactdir&#9;null&#9;null&#10;unsta&#9;ACTION&#9;Git.Unstash&#10;stash&#9;ACTION&#9;Git.Stash&#10;Stash&#9;ACTION&#9;Git.Stash&#10;Unstash&#9;ACTION&#9;Git.Unstash&#10;iOSPlatform.test.ts&#9;FILE&#9;file://C:/projects/vscode-react-native/src/test/debugger/ios/iOSPlatform.test.ts&#10;launchArgs.ts&#9;FILE&#9;file://C:/projects/vscode-react-native/src/common/launchArgs.ts&#10;iOSPlatform.ts&#9;FILE&#9;file://C:/projects/vscode-react-native/src/common/ios/iOSPlatform.ts&#10;stach&#9;ACTION&#9;Git.Stash&#10;unstash&#9;ACTION&#9;Git.Unstash&#10;extensionServe&#9;FILE&#9;file://C:/projects/vscode-react-native/src/extension/extensionServer.ts" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.5.0" />
+    <property name="javascript.karma.karma_node_package_dir" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\vscode-react-native\src\extension" />
+      <recent name="C:\projects\vscode-react-native\test\extension" />
+      <recent name="C:\projects\vscode-react-native\test\extension\ios" />
+      <recent name="C:\projects\vscode-react-native\src\extension\android" />
+      <recent name="C:\projects\vscode-react-native\src\common\log" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>$USER_HOME$/AppData/Local/nvs/default/node</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration name="tslint" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>tslint</task>
+      </tasks>
+      <arguments />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.tslint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SFStoredExecutionPersistentComponent">
+    <executions>
+      <execution name="Default" sourceToExecute="" />
+    </executions>
+    <lastSelectedExecutionName>Default</lastSelectedExecutionName>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822d59d2-ef42-4095-ab9a-3f77eb3d48f3" name="Default" comment="" />
+      <created>1501518964715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501518964715</updated>
+      <workItem from="1501518966413" duration="4595000" />
+      <workItem from="1501760704080" duration="788000" />
+      <workItem from="1501849111116" duration="5764000" />
+      <workItem from="1502112093992" duration="1735000" />
+      <workItem from="1502296070849" duration="32000" />
+      <workItem from="1502364513063" duration="3134000" />
+      <workItem from="1502706092722" duration="349000" />
+      <workItem from="1502895133416" duration="277000" />
+      <workItem from="1503403189623" duration="6322000" />
+      <workItem from="1503920954057" duration="8092000" />
+      <workItem from="1504268311093" duration="26000" />
+      <workItem from="1504268379932" duration="290000" />
+      <workItem from="1504268879244" duration="6137000" />
+      <workItem from="1504523310767" duration="31106000" />
+      <workItem from="1504684203530" duration="32007000" />
+      <workItem from="1505125276232" duration="27972000" />
+      <workItem from="1505375813024" duration="13299000" />
+      <workItem from="1506348457551" duration="6182000" />
+      <workItem from="1507642279860" duration="627000" />
+      <workItem from="1507804606387" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="More strict `compilerOptions` for typescript">
+      <created>1501856523002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1501856523002</updated>
+    </task>
+    <task id="LOCAL-00002" summary="More strict `compilerOptions` for typescript -- part 2&#10;noImplicitAny">
+      <created>1501863253024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1501863253024</updated>
+    </task>
+    <task id="LOCAL-00003" summary="More strict `compilerOptions` for typescript -- part 3&#10;noImplicitReturns">
+      <created>1502093767666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1502093767666</updated>
+    </task>
+    <task id="LOCAL-00004" summary="More strict `compilerOptions` for typescript -- part 4&#10;strictNullChecks">
+      <created>1502112431767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1502112431767</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sourceMapCombinator.d.ts">
+      <created>1502112636439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1502112636439</updated>
+    </task>
+    <task id="LOCAL-00006" summary="More strict check for targetType and other minor changes">
+      <created>1503404517872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1503404517872</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[WIP]: Replace debugger app start to extension">
+      <created>1504600540354</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1504600540354</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[WIP]: Replace debugger app start to extension">
+      <created>1504615033740</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1504615033740</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Refactoring for loggers">
+      <created>1504784113607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1504784113607</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refactoring for loggers">
+      <created>1504784196799</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1504784196799</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix cycle refs">
+      <created>1504786086421</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1504786086421</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix package.json incorrect merge">
+      <created>1504787420466</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1504787420466</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix package.json incorrect merge">
+      <created>1504787577090</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1504787577090</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge branch 'master' into replace-app-start&#10;&#10;# Conflicts:&#10;#&#9;src/common/generalMobilePlatform.ts&#10;#&#9;src/common/packager.ts&#10;#&#9;src/extension/android/androidPlatform.ts&#10;#&#9;src/extension/ios/iOSPlatform.ts">
+      <created>1505131664398</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1505131664398</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge branch 'master' into replace-app-start&#10;&#10;# Conflicts:&#10;#&#9;src/common/generalMobilePlatform.ts&#10;#&#9;src/common/packager.ts&#10;#&#9;src/extension/android/androidPlatform.ts&#10;#&#9;src/extension/ios/iOSPlatform.ts">
+      <created>1505131838871</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1505131838871</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Separate log levels for debugger and extension">
+      <created>1505219679824</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1505219679824</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Global logger refactoring">
+      <created>1505390937067</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1505390937067</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge branch 'master' into replace-app-start&#10;&#10;# Conflicts:&#10;#&#9;src/common/generalMobilePlatform.ts&#10;#&#9;src/extension/android/androidPlatform.ts&#10;#&#9;src/extension/commandPaletteHandler.ts">
+      <created>1506350372217</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1506350372217</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge branch 'master' into replace-app-start&#10;&#10;# Conflicts:&#10;#&#9;src/common/generalMobilePlatform.ts&#10;#&#9;src/extension/android/androidPlatform.ts&#10;#&#9;src/extension/commandPaletteHandler.ts">
+      <created>1506350700371</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1506350700371</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="148742000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3311828" sideWeight="0.510661" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3311828" sideWeight="0.48933902" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21428572" sideWeight="0.50643086" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22068231" sideWeight="0.49356914" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test/index.js" />
+        <option value="$PROJECT_DIR$/test/index.js.map" />
+        <option value="$PROJECT_DIR$/src/common/nestedError.js.map" />
+        <option value="$PROJECT_DIR$/src/common/reactNativeProjectHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/common/entryPointHandler.js" />
+        <option value="$PROJECT_DIR$/src/common/telemetry.js" />
+        <option value="$PROJECT_DIR$/src/common/telemetryGenerators.js.map" />
+        <option value="$PROJECT_DIR$/src/common/commandExecutor.js.map" />
+        <option value="$PROJECT_DIR$/src/common/nestedError.js" />
+        <option value="$PROJECT_DIR$/src/common/configurationReader.js.map" />
+        <option value="$PROJECT_DIR$/src/common/telemetry.js.map" />
+        <option value="$PROJECT_DIR$/src/common/telemetryHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/common/telemetryHelper.js" />
+        <option value="$PROJECT_DIR$/src/common/extensionMessaging.js.map" />
+        <option value="$PROJECT_DIR$/src/common/targetPlatformHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/common/commandExecutor.js" />
+        <option value="$PROJECT_DIR$/src/common/outputVerifier.js.map" />
+        <option value="$PROJECT_DIR$/src/common/remoteExtension.js" />
+        <option value="$PROJECT_DIR$/src/common/packager.js.map" />
+        <option value="$PROJECT_DIR$/src/common/extensionMessaging.js" />
+        <option value="$PROJECT_DIR$/src/common/outputVerifier.js" />
+        <option value="$PROJECT_DIR$/src/common/reactNativeProjectHelper.js" />
+        <option value="$PROJECT_DIR$/src/common/telemetryReporters.js" />
+        <option value="$PROJECT_DIR$/src/common/remoteExtension.js.map" />
+        <option value="$PROJECT_DIR$/src/common/hostPlatform.js" />
+        <option value="$PROJECT_DIR$/src/common/executionsLimiter.js" />
+        <option value="$PROJECT_DIR$/src/common/telemetryGenerators.js" />
+        <option value="$PROJECT_DIR$/src/common/entryPointHandler.js.map" />
+        <option value="$PROJECT_DIR$/src/common/executionsLimiter.js.map" />
+        <option value="$PROJECT_DIR$/src/common/packager.js" />
+        <option value="$PROJECT_DIR$/src/common/telemetryReporters.js.map" />
+        <option value="$PROJECT_DIR$/src/common/configurationReader.js" />
+        <option value="$PROJECT_DIR$/src/common/targetPlatformHelper.js" />
+        <option value="$PROJECT_DIR$/src/common/hostPlatform.js.map" />
+        <option value="$PROJECT_DIR$/src/debugger/scriptImporter.js.map" />
+        <option value="$PROJECT_DIR$/src/debugger/sourceMap.js.map" />
+        <option value="$PROJECT_DIR$/src/debugger/reactNativeDebugEntryPoint.js" />
+        <option value="$PROJECT_DIR$/src/debugger/sourceMapsCombinator.js.map" />
+        <option value="$PROJECT_DIR$/src/debugger/sourceMapsCombinator.js" />
+        <option value="$PROJECT_DIR$/src/debugger/reactNativeDebugEntryPoint.js.map" />
+        <option value="$PROJECT_DIR$/src/debugger/scriptImporter.js" />
+        <option value="$PROJECT_DIR$/src/debugger/appWorker.js.map" />
+        <option value="$PROJECT_DIR$/src/debugger/appWorker.js" />
+        <option value="$PROJECT_DIR$/src/debugger/sourceMap.js" />
+        <option value="$PROJECT_DIR$/src/debugger/nodeDebugWrapper.js" />
+        <option value="$PROJECT_DIR$/src/debugger/forkedAppWorker.js.map" />
+        <option value="$PROJECT_DIR$/src/debugger/nodeDebugWrapper.js.map" />
+        <option value="$PROJECT_DIR$/src/debugger/forkedAppWorker.js" />
+        <option value="$PROJECT_DIR$/src/extension/commandPaletteHandler.js" />
+        <option value="$PROJECT_DIR$/src/extension/reactDirManager.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/openFileAtLocation.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/extensionServer.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/extensionServer.js" />
+        <option value="$PROJECT_DIR$/src/extension/intellisenseHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/rn-extension.js" />
+        <option value="$PROJECT_DIR$/src/extension/packagerStatusIndicator.js" />
+        <option value="$PROJECT_DIR$/src/extension/intellisenseHelper.js" />
+        <option value="$PROJECT_DIR$/src/extension/reactDirManager.js" />
+        <option value="$PROJECT_DIR$/src/extension/commandPaletteHandler.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/openFileAtLocation.js" />
+        <option value="$PROJECT_DIR$/src/extension/qrCodeContentProvider.js" />
+        <option value="$PROJECT_DIR$/src/extension/tsconfigHelper.js" />
+        <option value="$PROJECT_DIR$/src/extension/rn-extension.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/settingsHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/tsconfigHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/settingsHelper.js" />
+        <option value="$PROJECT_DIR$/src/extension/qrCodeContentProvider.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/packagerStatusIndicator.js.map" />
+        <option value="$PROJECT_DIR$/test/common/extensionMessaging.test.js" />
+        <option value="$PROJECT_DIR$/test/common/extensionMessaging.test.js.map" />
+        <option value="$PROJECT_DIR$/test/debugger/appWorker.test.js" />
+        <option value="$PROJECT_DIR$/test/debugger/appWorker.test.js.map" />
+        <option value="$PROJECT_DIR$/test/debugger/sourceMapsCombinator.test.js" />
+        <option value="$PROJECT_DIR$/test/debugger/setup.test.js.map" />
+        <option value="$PROJECT_DIR$/test/debugger/setup.test.js" />
+        <option value="$PROJECT_DIR$/test/debugger/sourceMap.test.js" />
+        <option value="$PROJECT_DIR$/test/debugger/sourceMap.test.js.map" />
+        <option value="$PROJECT_DIR$/test/debugger/sourceMapsCombinator.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/reactDirManager.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/reactDirManager.test.js" />
+        <option value="$PROJECT_DIR$/test/resources/recordingsHelper.js" />
+        <option value="$PROJECT_DIR$/test/resources/reactNative022.js.map" />
+        <option value="$PROJECT_DIR$/test/resources/reactNative022.js" />
+        <option value="$PROJECT_DIR$/test/resources/recordingsHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/common/node/promise.js" />
+        <option value="$PROJECT_DIR$/src/common/node/crypto.js.map" />
+        <option value="$PROJECT_DIR$/src/common/node/fileSystem.js.map" />
+        <option value="$PROJECT_DIR$/src/common/node/node.js" />
+        <option value="$PROJECT_DIR$/src/common/node/childProcess.js.map" />
+        <option value="$PROJECT_DIR$/src/common/node/promise.js.map" />
+        <option value="$PROJECT_DIR$/src/common/node/crypto.js" />
+        <option value="$PROJECT_DIR$/src/common/node/node.js.map" />
+        <option value="$PROJECT_DIR$/src/common/node/request.js.map" />
+        <option value="$PROJECT_DIR$/src/common/node/childProcess.js" />
+        <option value="$PROJECT_DIR$/src/common/node/package.js.map" />
+        <option value="$PROJECT_DIR$/src/common/node/fileSystem.js" />
+        <option value="$PROJECT_DIR$/src/common/node/request.js" />
+        <option value="$PROJECT_DIR$/src/common/node/package.js" />
+        <option value="$PROJECT_DIR$/src/common/error/errorHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/common/error/errorStrings.js.map" />
+        <option value="$PROJECT_DIR$/src/common/error/internalErrorCode.js.map" />
+        <option value="$PROJECT_DIR$/src/common/error/internalError.js" />
+        <option value="$PROJECT_DIR$/src/common/error/internalErrorCode.js" />
+        <option value="$PROJECT_DIR$/src/common/error/internalError.js.map" />
+        <option value="$PROJECT_DIR$/src/common/error/errorStrings.js" />
+        <option value="$PROJECT_DIR$/src/common/error/errorHelper.js" />
+        <option value="$PROJECT_DIR$/src/extension/android/logCatMonitor.js" />
+        <option value="$PROJECT_DIR$/src/extension/android/logCatMonitor.js.map" />
+        <option value="$PROJECT_DIR$/test/debugger/assets/hello.js" />
+        <option value="$PROJECT_DIR$/test/debugger/assets/debuggerWorker.js" />
+        <option value="$PROJECT_DIR$/test/debugger/assets/debuggerWorker.js.map" />
+        <option value="$PROJECT_DIR$/test/debugger/assets/importScriptsTest.js.map" />
+        <option value="$PROJECT_DIR$/test/debugger/assets/importScriptsTest.js" />
+        <option value="$PROJECT_DIR$/test/debugger/assets/hello.js.map" />
+        <option value="$PROJECT_DIR$/test/resources/simulators/apkSerializer.js.map" />
+        <option value="$PROJECT_DIR$/test/resources/simulators/apkSerializer.js" />
+        <option value="$PROJECT_DIR$/test/resources/simulators/childProcess.js.map" />
+        <option value="$PROJECT_DIR$/test/resources/simulators/childProcess.js" />
+        <option value="$PROJECT_DIR$/test/resources/processExecution/recording.js" />
+        <option value="$PROJECT_DIR$/test/resources/processExecution/recorder.js.map" />
+        <option value="$PROJECT_DIR$/test/resources/processExecution/simulator.js.map" />
+        <option value="$PROJECT_DIR$/test/resources/processExecution/recording.js.map" />
+        <option value="$PROJECT_DIR$/test/resources/processExecution/simulator.js" />
+        <option value="$PROJECT_DIR$/test/resources/processExecution/recorder.js" />
+        <option value="$PROJECT_DIR$/src/common/packagerStatus.js.map" />
+        <option value="$PROJECT_DIR$/src/common/packagerStatus.js" />
+        <option value="$PROJECT_DIR$/src/extension/platformResolver.js" />
+        <option value="$PROJECT_DIR$/src/extension/launchArgs.js" />
+        <option value="$PROJECT_DIR$/src/extension/generalMobilePlatform.js" />
+        <option value="$PROJECT_DIR$/src/extension/launchArgs.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/platformResolver.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/generalMobilePlatform.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/packager.test.js" />
+        <option value="$PROJECT_DIR$/test/extension/commandExecutor.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/packager.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/commandExecutor.test.js" />
+        <option value="$PROJECT_DIR$/src/extension/ios/plistBuddy.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/ios/simulatorPlist.js" />
+        <option value="$PROJECT_DIR$/src/extension/ios/xcodeproj.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/ios/simulatorPlist.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/ios/xcodeproj.js" />
+        <option value="$PROJECT_DIR$/src/extension/ios/plistBuddy.js" />
+        <option value="$PROJECT_DIR$/src/extension/ios/iOSPlatform.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/ios/iOSDebugModeManager.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/ios/iOSDebugModeManager.js" />
+        <option value="$PROJECT_DIR$/src/extension/ios/iOSPlatform.js" />
+        <option value="$PROJECT_DIR$/src/extension/log/NullLogger.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/log/LogHelper.js" />
+        <option value="$PROJECT_DIR$/src/extension/log/NullLogger.js" />
+        <option value="$PROJECT_DIR$/src/extension/log/ConsoleLogger.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/log/OutputChannelLogger.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/log/OutputChannelLogger.js" />
+        <option value="$PROJECT_DIR$/src/extension/log/LogHelper.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/log/ConsoleLogger.js" />
+        <option value="$PROJECT_DIR$/src/extension/android/packageNameResolver.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/android/androidPlatform.js" />
+        <option value="$PROJECT_DIR$/src/extension/android/adb.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/android/androidPlatform.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/android/adb.js" />
+        <option value="$PROJECT_DIR$/src/extension/android/packageNameResolver.js" />
+        <option value="$PROJECT_DIR$/src/extension/exponent/exponentPlatform.js" />
+        <option value="$PROJECT_DIR$/src/extension/exponent/exponentPlatform.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/exponent/xdlInterface.js" />
+        <option value="$PROJECT_DIR$/src/extension/exponent/exponentHelper.js" />
+        <option value="$PROJECT_DIR$/src/extension/exponent/xdlInterface.js.map" />
+        <option value="$PROJECT_DIR$/src/extension/exponent/exponentHelper.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/ios/simulatorPlist.test.js" />
+        <option value="$PROJECT_DIR$/test/extension/ios/iOSPlatform.test.js" />
+        <option value="$PROJECT_DIR$/test/extension/ios/simulatorPlist.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/ios/xcodeproj.test.js" />
+        <option value="$PROJECT_DIR$/test/extension/ios/xcodeproj.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/ios/plistBuddy.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/ios/plistBuddy.test.js" />
+        <option value="$PROJECT_DIR$/test/extension/ios/iOSPlatform.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/android/androidPlatform.test.js.map" />
+        <option value="$PROJECT_DIR$/test/extension/android/androidPlatform.test.js" />
+        <option value="$PROJECT_DIR$/src/extension/exponent/exponentHelper.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="More strict `compilerOptions` for typescript" />
+    <MESSAGE value="More strict `compilerOptions` for typescript -- part 2&#10;noImplicitAny" />
+    <MESSAGE value="More strict `compilerOptions` for typescript -- part 3&#10;noImplicitReturns" />
+    <MESSAGE value="More strict `compilerOptions` for typescript -- part 4&#10;strictNullChecks" />
+    <MESSAGE value="sourceMapCombinator.d.ts" />
+    <MESSAGE value="More strict check for targetType and other minor changes" />
+    <MESSAGE value="Replace debugger app start to extension" />
+    <MESSAGE value="[WIP]: Replace debugger app start to extension" />
+    <MESSAGE value="Refactoring for loggers" />
+    <MESSAGE value="Fix cycle refs" />
+    <MESSAGE value="Fix package.json incorrect merge" />
+    <MESSAGE value="Merge branch 'master' into replace-app-start&#10;&#10;# Conflicts:&#10;#&#9;src/common/generalMobilePlatform.ts&#10;#&#9;src/common/packager.ts&#10;#&#9;src/extension/android/androidPlatform.ts&#10;#&#9;src/extension/ios/iOSPlatform.ts" />
+    <MESSAGE value="Separate log levels for debugger and extension" />
+    <MESSAGE value="Global logger refactoring" />
+    <MESSAGE value="Merge branch 'master' into replace-app-start&#10;&#10;# Conflicts:&#10;#&#9;src/common/generalMobilePlatform.ts&#10;#&#9;src/extension/android/androidPlatform.ts&#10;#&#9;src/extension/commandPaletteHandler.ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' into replace-app-start&#10;&#10;# Conflicts:&#10;#&#9;src/common/generalMobilePlatform.ts&#10;#&#9;src/extension/android/androidPlatform.ts&#10;#&#9;src/extension/commandPaletteHandler.ts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="479" height="304" key="Git.Branch.Popup" />
+    <state width="479" height="304" key="Git.Branch.Popup/0.0.1920.1080/1920.0.1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/extension/log/OutputChannelLogger.js" />
+    <entry file="file://$PROJECT_DIR$/src/common/hostPlatform.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="77" column="5" lean-forward="false" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debugger/nodeDebugWrapper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="120" column="21" lean-forward="false" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vscode-debugadapter/lib/logger.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/ios/simulatorPlist.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/intellisenseHelper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="251" column="17" lean-forward="false" selection-start-line="251" selection-start-column="17" selection-end-line="251" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/commandExecutor.ts" />
+    <entry file="file://$PROJECT_DIR$/src/extension/generalMobilePlatform.ts" />
+    <entry file="file://$PROJECT_DIR$/src/extension/packager.ts" />
+    <entry file="file://$PROJECT_DIR$/src/common/interProcessMessageSender.ts" />
+    <entry file="file://$PROJECT_DIR$/src/extension/platformResolver.ts" />
+    <entry file="file://$PROJECT_DIR$/src/common/packagerStatus.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/node/childProcess.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/extension/ios/iOSPlatform.test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/extension/commandExecutor.test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/extension/packager.test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/entryPointHandler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/configurationReader.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/log/log.ts" />
+    <entry file="file://$PROJECT_DIR$/src/extension/log/loggers.ts" />
+    <entry file="file://$PROJECT_DIR$/src/extension/log/DelayedOutputChannelLogger.ts" />
+    <entry file="file://$PROJECT_DIR$/src/common/error/internalError.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vscode/vscode.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="2513" column="8" lean-forward="false" selection-start-line="2513" selection-start-column="8" selection-end-line="2513" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/android/logCatMonitor.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="101" column="62" lean-forward="false" selection-start-line="101" selection-start-column="62" selection-end-line="101" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/commandExecutor.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/exponent/exponentHelper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="189" column="55" lean-forward="false" selection-start-line="189" selection-start-column="55" selection-end-line="189" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/log/LogHelper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/reactDirManager.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/log/OutputChannelLogger.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/log/ConsoleLogger.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vscode/settings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/android/androidPlatform.ts" />
+    <entry file="file://$PROJECT_DIR$/src/common/packager.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="329" column="58" lean-forward="false" selection-start-line="329" selection-start-column="58" selection-end-line="329" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/extensionServer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/customization.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/rn-extension.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+          <folding>
+            <element signature="e#544#567#0" expanded="true" />
+            <marker date="1507546162882" expanded="true" signature="6614:6634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/android/adb.ts" />
+    <entry file="file://$PROJECT_DIR$/src/common/generalMobilePlatform.ts" />
+    <entry file="file://$PROJECT_DIR$/src/extension/generalMobilePlatform.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6188">
+          <caret line="380" column="28" lean-forward="false" selection-start-line="380" selection-start-column="28" selection-end-line="380" selection-end-column="28" />
+          <folding>
+            <marker date="1507795002641" expanded="true" signature="734:11918" ph="{...}" />
+            <marker date="1507795002641" expanded="true" signature="2072:10960" ph="[...]" />
+            <marker date="1507795002641" expanded="true" signature="2080:10954" ph="{&quot;type&quot;: &quot;reactnative&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="5896:10946" ph="{...}" />
+            <marker date="1507795002641" expanded="true" signature="7365:10936" ph="{...}" />
+            <marker date="1507795002641" expanded="true" signature="7484:10924" ph="{...}" />
+            <marker date="1507795002641" expanded="true" signature="8128:8256" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="8283:8421" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="8447:8910" ph="{&quot;default&quot;: &quot;simulator&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="8474:8767" ph="[...]" />
+            <marker date="1507795002641" expanded="true" signature="8494:8671" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="8562:8651" ph="[...]" />
+            <marker date="1507795002641" expanded="true" signature="8691:8749" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="8940:9160" ph="{&quot;type&quot;: &quot;boolean&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="9195:9649" ph="{&quot;type&quot;: &quot;array&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="9518:9633" ph="[...]" />
+            <marker date="1507795002641" expanded="true" signature="9675:9917" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="9949:10141" ph="{&quot;type&quot;: &quot;array&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="10168:10350" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="10376:10557" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="10582:10910" ph="{&quot;type&quot;: &quot;string&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="10642:10793" ph="[...]" />
+            <marker date="1507795002641" expanded="true" signature="10983:11914" ph="{&quot;type&quot;: &quot;object&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="11074:11908" ph="{...}" />
+            <marker date="1507795002641" expanded="true" signature="11127:11278" ph="{&quot;description&quot;: &quot;Run arguments to be passed to 'react-native run-ios' command&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="11328:11479" ph="{&quot;description&quot;: &quot;Run arguments to be passed to 'react-native run-ios' command&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="11536:11691" ph="{&quot;description&quot;: &quot;Run arguments to be passed to 'react-native run-android' command&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="11745:11900" ph="{&quot;description&quot;: &quot;Run arguments to be passed to 'react-native run-android' command&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="11933:12222" ph="{&quot;start&quot;: &quot;node node_modules/react-native/local-cli/cli.js start&quot;...}" />
+            <marker date="1507795002641" expanded="true" signature="12242:12739" ph="{&quot;extract-opts&quot;: &quot;2.2.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/ios/iOSDebugModeManager.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/commandPaletteHandler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="95" column="41" lean-forward="false" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+          <folding>
+            <element signature="e#147#180#0" expanded="true" />
+            <marker date="1507546162867" expanded="true" signature="10369:10582" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/launchArgs.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/ios/iOSPlatform.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="115" column="15" lean-forward="false" selection-start-line="115" selection-start-column="15" selection-end-line="115" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/android/androidPlatform.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="134" column="5" lean-forward="false" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/android/adb.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="74" column="77" lean-forward="false" selection-start-line="74" selection-start-column="77" selection-end-line="74" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/android/adb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.vscode/extensions/vsmobile.vscode-react-native-0.4.2/src/common/android/adb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extension/settingsHelper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="90" column="52" lean-forward="false" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
+          <folding>
+            <element signature="e#147#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
